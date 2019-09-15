@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  things_i_am = ["hungry", "old", "tired", "sleepy"]
+  things_i_am = ["hungry", "sore", "tired", "sleepy"]
   things_i_am << "exhausted"
 end
 
